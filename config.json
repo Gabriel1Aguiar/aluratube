@@ -17,14 +17,14 @@
         ]
     },    
     "playlists": {
-        "front-end": [
+        "dev": [
             {
                 "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
                 "url": "https://youtube.com/watch?v=jOAU81jdi-c",
                 "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
             },
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "title": "LANDING PAGE COM HTML e CSS!",
                 "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
                 "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
             }
