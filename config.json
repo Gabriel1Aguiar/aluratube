@@ -1,0 +1,57 @@
+{
+    "name": "Gabriel Aguiar",
+    "job": "Front-End Student",
+    "github": "Gabriel1Aguiar",
+    "favoritos":{
+        "Recomendados":[
+            {
+                "nomeUser": "Mario Souto",
+                "imgUser":"https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj",
+                "urlUser":"https://www.youtube.com/c/DevSoutinho"
+            },
+            {
+                "nomeUser": "Cortes do Casimito",
+                "imgUser": "https://yt3.ggpht.com/ytc/AMLnZu-bu8UoUTz6sCJgx86VKU1HI1PheMS-2KjnkEZ0=s88-c-k-c0x00ffffff-no-rj",                
+                "urlUser": "https://www.youtube.com/c/CortesdoCasimitoOFICIAL"
+            }
+        ]
+    },    
+    "playlists": {
+        "front-end": [
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+            },
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+            }
+        ],
+        "música": [
+            {
+                "title": "RÜFÜS - Innerbloom (What So Not Remix)",
+                "url": "https://www.youtube.com/watch?v=8dNIPca1LD8&ab_channel=SweatItOut",
+                "thumb": "https://i.ytimg.com/vi/8dNIPca1LD8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYm8XGQK3k9BXFCH-iRtD9jVZoYQ"
+            },
+            {
+                "title": "Be Someone (Extended Mix)",
+                "url": "https://www.youtube.com/watch?v=SJ-0jW4MQhE&ab_channel=KVSH-Topic",
+                "thumb": "https://i.ytimg.com/vi/SJ-0jW4MQhE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmCAyWQyCsUD5plTdnF2_gFSQdYw"
+            }            
+        ],
+        "variados": [
+            {
+                "title": "CASIMIRO REAGE | Cortes do Casimito",
+                "url": "https://www.youtube.com/watch?v=YKBxtVL0OQA&ab_channel=CortesdoCasimito%5BOFICIAL%5D",
+                "thumb": "https://i.ytimg.com/vi/YKBxtVL0OQA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxGBcNtWq4j_B4wzcITbGffCzskw"
+            },
+            {
+                "title": "Repórter Doidão - Final da Libertadores!",
+                "url": "https://www.youtube.com/watch?v=EN-TKxxQxi8&ab_channel=DIOGODEFANTE",
+                "thumb": "https://yt3.ggpht.com/MxBcembTet1lQPFhAVIw-QeW5FrBofGZLzU2JfqRcbqPwq_sj6eVDZRNjPG_eAZOEDXnxcuW5xY=s176-c-k-c0x00ffffff-no-rj-mo"
+            }
+        ]
+    }
+}
